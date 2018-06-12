@@ -1,0 +1,193 @@
+#banner-image{
+    padding-bottom:0px; 
+    text-align: center;
+    color: #f8f8f8;
+    background:url(images/intro.png) no-repeat ;
+    background-size: 100%;
+    margin-bottom: 10px;
+    height: 520px;
+}
+
+.index-img{
+    margin-top: -60px;
+    margin-bottom: -150px;
+    text-decoration: none;
+}
+.banner-content{
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 6%;
+    margin-top: 20%;
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 50%;
+    height: 180px;
+    align-content: center;
+    margin-left:25%;
+    
+}
+
+.footer{
+    padding-top: 10px;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+}
+
+
+.signup-heading{
+    margin-top: 60px;
+    margin-bottom: -165px;
+    font-size: 5px;
+}
+
+.panel-footer{
+    margin-top: 20px;
+    margin-bottom: -200px;
+}
+
+.login-form{
+    margin-top:-30px;    
+}
+.login-heading{
+    margin-top: 20px;
+}
+
+.font-signup{
+    font-size:1px;
+}
+.p{
+    font-size:15px;
+    text-decoration: none;
+}
+
+
+.panel1{
+    margin-top: 20px;
+    align-content: center;
+}
+
+foo{
+    margin-top: -5000px;
+}
+
+
+
+
+.footer-signup{
+    padding-top: 10px;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+    margin-top: 18px;
+}
+
+.success-jumbotron{
+    text-align: center;
+    margin-top:100px;
+    margin-bottom: 200px;
+}
+
+.success-jumbo{
+    margin-bottom: 225px;
+}
+
+.prod-display{
+    margin-bottom: -150px;
+}
+
+.footer-login{
+    padding-top: 10px;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.table1{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.btn-cnf{
+    margin-left: 420px;
+    margin-bottom:0px;
+}
+tr{
+    height:40px;
+    font-size: 15px;
+}
+
+td,th{
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+}
+
+th{
+    background-color: lightblue;
+}
+.products-img {
+    height: 230px;
+    overflow: hidden;
+    margin:14px;
+    width: 22%;
+}
+
+.cont{
+    margin-bottom: 850px;
+}
+.products-img img {
+    height: 130px;
+    width:100%;
+    margin-bottom: 10px;
+}
+
+.products-img btn{
+    margin-bottom:30px;
+    width: 100%;
+}
+
+.jumboo{
+    margin-top: 100px;
+}
+
+.heading-products{
+    font-size: 10px;
+}
+
+.product-price{
+    font-size: 8px;
+}
+
+.block{
+    width:100%;
+}
+
+.footer-cart{
+    margin-top:200px; 
+    padding-top: 10px;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+}
+
+.settings-form{
+    margin-top: -100px;
+    margin-bottom: 10000px;
+}
+
+.table-cart{
+    margin-bottom: -50px;
+
+}  
+.add-first{
+        margin-top: 180px;
+        padding: 20px;
+        align-content: c
+    }
+    
+.login-footer{
+    margin-bottom: -180px;
+}
